@@ -3,7 +3,7 @@
 For full documentation visit [mkdocs.org](https://www.mkdocs.org).
 
 ## Made by Nextronic
-[![nextOne](https://phoni.ma/wp-content/uploads/2020/05/nextronic-carte-electronique-nextone-comptabile-arduino-uno-fabriquee-au-maroc_5ecc9bd46e922.jpeg)](/cards/NextOne)
+[![nextOne](https://phoni.ma/wp-content/uploads/2020/05/nextronic-carte-electronique-nextone-comptabile-arduino-uno-fabriquee-au-maroc_5ecc9bd46e922.jpeg)](cards/NextOne)
 
 ## Commands
 
