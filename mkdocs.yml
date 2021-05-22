@@ -1,0 +1,6 @@
+site_name: Nextronic Docs
+theme:
+  name: material
+  palette:
+    scheme: slate
+    primary: red
