@@ -4,3 +4,6 @@ theme:
   palette:
     scheme: slate
     primary: red
+
+extra:
+  disqus: nextdocs
